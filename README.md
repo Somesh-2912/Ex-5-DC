@@ -169,7 +169,10 @@ print("Demodulated Bits:", decoded)
 .
 .
 .
-.
+.##
+##
+##
+##
 .
 .
 .
