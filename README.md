@@ -55,7 +55,7 @@ decoded = (demod[sample_points] < 0).astype(int)
 plt.figure(figsize=(10, 9))
 
 # Name and Register Number
-plt.suptitle("NAME : TAMILSELVAN\nREG NO : 212224060275",
+plt.suptitle("NAME : SOMESH SANJAY V\nREG NO : 212224060255",
              fontsize=12, fontweight='bold')
 
 plt.subplot(4, 1, 1)
@@ -135,7 +135,7 @@ for i in range(len(symbols)):
 # Plot
 plt.figure(figsize=(10,8))
 
-plt.suptitle("NAME : TAMILSELVAN\nREG NO : 212224060275",
+plt.suptitle("NAME : SOMESH SANJAY V\nREG NO : 212224060255",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
@@ -163,11 +163,12 @@ print("Demodulated Bits:", decoded)
 ```
 ## OUTPUT WAVEFORM:
 #### PSK:
-<img width="810" height="732" alt="image" src="https://github.com/user-attachments/assets/82dbdf9e-b6d6-4ff7-82cf-6e1369b0baf0" />
+<img width="992" height="910" alt="image" src="https://github.com/user-attachments/assets/f88e6c0d-be86-4997-b6c4-35e961c210db" />
 
 
 #### QPSK:
-<img width="821" height="658" alt="image" src="https://github.com/user-attachments/assets/d4a4134e-ae04-4428-b409-7dadf096185d" />
+<img width="967" height="832" alt="image" src="https://github.com/user-attachments/assets/cc3e8181-944f-48f6-b309-e6e8d5360e96" />
+
 
 
 
