@@ -165,7 +165,15 @@ print("Demodulated Bits:", decoded)
 #### PSK:
 <img width="992" height="910" alt="image" src="https://github.com/user-attachments/assets/f88e6c0d-be86-4997-b6c4-35e961c210db" />
 
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
 #### QPSK:
 <img width="967" height="832" alt="image" src="https://github.com/user-attachments/assets/cc3e8181-944f-48f6-b309-e6e8d5360e96" />
 
